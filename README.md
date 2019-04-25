@@ -16,3 +16,11 @@ La web app diseñada sobre azure como apoyo para nuestro trabajo se puede consul
 Dicha web app utiliza SQL para desplegar los datos en formato de tabla y tableau para animaciones interactivas.
 
 Cada código de R está acompañado por las bases de datos necesarias para ejecutarlo.
+
+Equipo: Testigos de PCA
+Miembros:
+  *Luis Fernando Pardo Sixtos. Matemático, estudiante de maestría en Computación y Matemáticas Industriales. CIMAT, Guanajuato
+  *Juan Francisco Mandujano Reyes. Físico-Matemático, estudiante de maestría en Probabilidad y Estadística. CIMAT, Guanajuato
+  *José Daniel Maldonado Nuñez. Matemático, estudiante de maestría en Ciencias en Probabilidad y Estadística. CIMAT, Guanjuato
+  *Leobardo Omar Jasso Romo. Matemático, aceptado en la maestria de economía ambiental en CIDE.
+  *Luis Carlos Gallardo Ramírez. Ingeniero Mecatrónico, web developer.
