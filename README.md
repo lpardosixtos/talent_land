@@ -11,3 +11,8 @@ Una vez seleccionada la información relevante y conociendo su aporte en el crec
 Por último, para analizar la bondad de nuestro modelo, realizamos un estudio hemerográfico básico que sustenta nuestras observaciones.
 
 Este repositorio contiene el código y los datos utilizados en el desarrollo del índice de crecimiento económico para entidades federativas mexicanas propuestos para talent hackaton 2019.
+
+La web app diseñada sobre azure como apoyo para nuestro trabajo se puede consultar en https://hacktale.azurewebsites.net/
+Dicha web app utiliza SQL para desplegar los datos en formato de tabla y tableau para animaciones interactivas.
+
+Cada código de R está acompañado por las bases de datos necesarias para ejecutarlo.
